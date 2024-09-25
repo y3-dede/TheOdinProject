@@ -1,5 +1,5 @@
 # Live Preview
-[Live preview][https://y3-dede.github.io/TheOdinProject/odin-recipes]
+[Live preview](https://y3-dede.github.io/TheOdinProject/odin-recipes)
 
 # **RECIPES**
 

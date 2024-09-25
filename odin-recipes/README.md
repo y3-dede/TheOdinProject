@@ -1,3 +1,6 @@
+# Live Preview
+[Live preview][https://y3-dede.github.io/TheOdinProject/odin-recipes]
+
 # **RECIPES**
 
 ## **This webisite consists of a main index page with links to a few recipes**
